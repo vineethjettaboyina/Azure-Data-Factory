@@ -1,6 +1,4 @@
 # Azure-Data-Factory
-
-# Azure-Data-Factory
 Azure is a cloud platform and it provides multiple services which are used to make our works smarter and automate by decreasing the manual work.
 Some of the examples are Azure Data Factory, Azure Logic Apps, Azure function Apps etc.,
  
